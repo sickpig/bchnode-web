@@ -1,23 +1,38 @@
 # BitcoinCashNode.org
 
-### Run the develoment server
+You will need nodeJS 8+, VueJS and Vue-cli installed on your machine.
 
-You will need nodeJS installed on your machine, then run the following once:
+See more at https://vuejs.org/v2/guide/installation.html and https://cli.vuejs.org/guide/.
 
-```shell
-npm install -g gulp-cli
+## Project setup
+```
 npm install
 ```
 
-Run the following every time you want to start the development server:
-
-```shell
-gulp
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-Hit `ctrl + C` to stop the server.
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### Contributing
+### Run your tests
+```
+npm run test
+```
 
-Use the coding style recommended by [codeguide.co](https://codeguide.co).  
-Open issues and pull requests at this repo.
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
