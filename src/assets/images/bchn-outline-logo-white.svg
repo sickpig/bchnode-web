@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="206px" viewBox="0 0 244 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-509.000000, -140.000000)" stroke="#FFFFFF">
+            <g id="Logo" transform="translate(131.000000, 140.000000)">
+                <g id="Group" transform="translate(378.000000, 0.000000)">
+                    <rect id="Rectangle" stroke-width="4" x="2" y="65" width="76" height="74" rx="6"></rect>
+                    <rect id="Rectangle" stroke-width="6" x="21" y="35" width="138" height="138" rx="8"></rect>
+                    <rect id="Rectangle" stroke-width="8" x="42" y="4" width="198" height="198" rx="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
